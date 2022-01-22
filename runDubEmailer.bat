@@ -1,0 +1,1 @@
+"Python path/python.exe" "script path\DubEmailer.py" > "script path/log.txt"
