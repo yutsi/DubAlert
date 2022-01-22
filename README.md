@@ -13,6 +13,6 @@ DubAlert enables you to receive an email notification when a specified anime get
 
 # How to use
 
-1. Set values for variables in config.py
+1. Rename testconfig.py to config.py and assign values
 2. Run DubAlert.py to input shows
 3. Set up runDubEmailer.bat (with the correct directories) to run on a schedule, e.g. with Windows Task Scheduler.
